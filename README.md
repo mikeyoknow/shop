@@ -1,2 +1,9 @@
 # shop
 I will build a fully functional e-commerce website where users can browse products, add them to a cart, and proceed with the checkout process. I will implement features such as user authentication, payment integration, and order management.
+
+# What to do...
+This project will be my first actual React, express and Node.js project, therefore I need to go through some learning before I be able to start this project.
+  <ul> 
+    <i>React:</i> React is a JavaScript library for building user interfaces that are reusable, interactive, and efficient. It helps developers    create UI components and update them efficiently when changes occur.
+    <br><i>Express:</i>Express is a minimalistic and flexible web application framework for Node.js. It provides a set of features and tools to  build web applications and APIs easily. Express simplifies the process of handling requests and responses, routing, and                            managing middleware. It allows developers to create server-side applications efficiently and provides a lightweight,                              unopinionated approach to web development with Node.js.
+    <br><i>bold Node.js:</i>Node.js is an open-source, server-side JavaScript runtime environment built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript code outside of a web browser, enabling them to build scalable and high-performance applications on the server side. Node.js uses an event-driven, non-blocking I/O model, making it efficient and suitable for real-time applications and network-intensive tasks. It has a vast ecosystem of modules and packages available through the npm (Node Package Manager), which simplifies the development process. Overall, Node.js enables developers to write server-side applications using JavaScript, leveraging its single-threaded, non-blocking architecture for efficient and scalable web development.
