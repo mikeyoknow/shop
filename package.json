@@ -1,0 +1,31 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "I will build a fully functional e-commerce website where users can browse products, add them to a cart, and proceed with the checkout process. I will implement features such as user authentication, payment integration, and order management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyoknow/shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeyoknow/shop/issues"
+  },
+  "homepage": "https://github.com/mikeyoknow/shop#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2"
+  }
+}
