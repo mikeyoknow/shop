@@ -1,3 +1,5 @@
+//last updated on june 11th 2023
+
 const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 const bcrypt = require('bcrypt');
