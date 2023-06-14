@@ -1,5 +1,5 @@
 # shop
-I will build a fully functional e-commerce website where users can browse products, add them to a cart, and proceed with the checkout process. I will implement features such as user authentication, payment integration, and order management.
+This repository will be my playground to mess around and explore the server side programing of a functional e-commerce website where users can browse products, add them to a cart, and proceed with the checkout process. I will implement features such as user authentication, payment integration, and order management.
 
 # What to do...
 This project will be my first actual React, express and Node.js project, therefore I need to go through some learning before I be able to start this project.
